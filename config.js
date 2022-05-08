@@ -14,7 +14,7 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['918231033230']
+global.owner = ['94777879831']
 global.packname = 'Mizuhara'
 global.prefix= ['=']
 global.author = 'Arus'
@@ -48,12 +48,12 @@ global.reac = {
             dance:'is Dancing with'
         }
 global.mess = {
-    success: '*Here you go...*',
-    admin: '*Oops!! sorry dude this is only for admins*',
+    success: '*Let the date begin...*',
+    admin: '*Oops!! sorry My Love this is only for admins*',
     botAdmin: '*To use this command make me admin if u trust me...*',
     owner: '*Sorry!! this command is for my darling developers*',
     group: '*Leave me here alone please...*',
-    wait: '*Loading... please wait*',
+    wait: '*Baka Loading... please wait*',
 }
 global.thumb = fs.readFileSync('./src/info.jpeg')
 
